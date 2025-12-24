@@ -1,92 +1,170 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #000000, #666666); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    ██▓▒­░⡷⠂Mohd Kaif Shaikh⠐⢾░▒▓██
-  </span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 • 𝙋𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙏𝙚𝙨𝙩𝙚𝙧
-</h3>
-<p align="center">
-  <a href="3" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
-  </a>
-  <a href="https://kaifshaikh76.wordpress.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/wordpress.png" alt="WordPress"/>
-  </a>
-  <a href="mailto:kaif80188@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
-  </a>
-  <a href="https://github.com/kaifshaikh786" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kaif-ismail-shaikh-777824312" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@alhamr1zvi" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/medium-logo.png" alt="Medium"/>
-  </a>
-  <a href="https://discord.com/users/dark_kaif." target="_blank">
-    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=200&section=header&text=MOHD%20KAIF%20SHAIKH&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Penetration%20Tester%20%7C%20Ethical%20Hacker&descAlignY=55&descSize=18" />
 
-<p align="center">
-  <a href="mailto:kaif80188@gmail.com">📧 Email</a> •
-  <a href="https://github.com/kaifshaikh786">GitHub</a> •
-  <a href="https://tryhackme.com/p/kaifshaikhh">TryHackMe</a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-
-## 🧠 Profile
-Offensive Security Researcher & analyst specializing in  
-<strong>Web, API, and Network Security</strong>.
-
-
-## 🛠️ Core Expertise
-### 🔴 Offensive Security
-![Web](https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge)
-![API](https://img.shields.io/badge/API%20Security-Advanced-black?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
-![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
+</div>
 
 ---
 
-## 📊 Skill Statistics
+<div align="center">
 
-### 🧪 Security Domains
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-111111?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-88%25-111111?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-111111?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
+### 🛡️ Offensive Security Researcher | Penetration Tester | VAPT Specialist
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaif80188@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifshaikh786)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kaifshaikhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kaif-shaikh-777824312)
+
+</div>
 
 ---
+
+## 🎯 About Me
+
+<img align="right" alt="Security" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I'm an **Offensive Security Researcher** passionate about breaking things to make them stronger. Specializing in web application security, API penetration testing, and network security assessments, I help organizations identify and remediate vulnerabilities before malicious actors exploit them.
+
+**🎯 My Mission:** *Think like an attacker, defend like a guardian*
+
+---
+
+## 🔥 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Offensive Security
+- 🌐 Web Application Penetration Testing
+- 🔌 API Security Assessment & Testing
+- 🌐 Network Penetration Testing
+- 🔍 Reconnaissance & OSINT
+- 📋 Vulnerability Assessment & Reporting
+- 💉 Exploit Development & Analysis
+- 🔐 Authentication & Authorization Bypass
+
+</td>
+<td width="50%">
+
+### 🛠️ Technical Skills
+- 🐍 Python Automation & Scripting
+- 💻 Bash Scripting & System Administration
+- ⚡ JavaScript & Web Technologies
+- 🔨 PowerShell for Windows Security
+- 🗄️ SQL & Database Security
+- 🐧 Linux System Hardening
+- 🪟 Active Directory Security
+
+</td>
+</tr>
+</table>
+
+
+
+## 🧰 Arsenal & Tools
+
+<div align="center">
+
+### 🔴 Offensive Security Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-E31837?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-DD0031?style=for-the-badge)
+![John](https://img.shields.io/badge/John_the_Ripper-8B4513?style=for-the-badge)
 
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-222222?style=for-the-badge&logo=javascript)
-![PowerShell](https://img.shields.io/badge/PowerShell-75%25-222222?style=for-the-badge&logo=powershell)
-![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux%20(Kali%2FParrot)-92%25-000000?style=for-the-badge&logo=linux)
-![Windows AD](https://img.shields.io/badge/Windows%20%2F%20Active%20Directory-80%25-000000?style=for-the-badge&logo=windows)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-33CCCC?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
 
 ---
 
-## ⚙️ Programming & Scripting
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/> </p>
+## 🎓 Methodologies & Frameworks
 
-## 🔴 Security Tools & Offensive Utilities
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-black?style=for-the-badge&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-Advanced-black?style=for-the-badge&logo=nmap)
-![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-black?style=for-the-badge&logo=metasploit)
-![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-black?style=for-the-badge&logo=wireshark)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Advanced-black?style=for-the-badge&logo=owasp)
-![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-black?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-Intermediate-black?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
+<div align="center">
+
+| Framework | Description |
+|:---------:|:------------|
+| **OWASP Top 10** | Web application security risks & mitigation |
+| **PTES** | Penetration Testing Execution Standard |
+| **OSSTMM** | Open Source Security Testing Methodology |
+| **MITRE ATT&CK** | Adversarial tactics & techniques knowledge base |
+
+</div>
+
+## 🏆 Achievements & Certifications
+
+- 🎯 **Bug Bounty Hunter** - Multiple CVEs discovered
+- 🔐 **CTF Player** - Active participant in cybersecurity competitions
+- 📜 **Security Researcher** - Published vulnerability reports
+- 🏅 **TryHackMe Contributor** - Top-ranked rooms completed
+
+---
+
+## 📝 Latest Blog Posts & Write-ups
+
+<!-- BLOG-POST-LIST:START -->
+- 🔒 Exploiting SQL Injection in Modern Web Applications
+- 🌐 API Security: Beyond OWASP Top 10
+- 🔍 Advanced Reconnaissance Techniques for Penetration Testing
+- 💉 Understanding SSRF: Server-Side Request Forgery Attacks
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on security research, discussing new vulnerabilities, or contributing to open-source security tools.
+
+<div align="center">
+
+**"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."** 
+*- Gene Spafford*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=dc143c&style=for-the-badge)](https://github.com/yourusername)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+### 💀 Remember: With great power comes great responsibility 💀
+
+*Ethical hacking only. Always get proper authorization before testing.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=120&section=footer" />
+
+</div>
